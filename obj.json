@@ -1,0 +1,136 @@
+[
+    {
+      "protocol": "FTP",
+      "ports": 21,
+      "protocol_type": "TCP",
+      "full_form": "File Transfer Protocol",
+      "function": "transfer files over a network"
+    },
+    {
+      "protocol": "FTP",
+      "ports": 20,
+      "protocol_type": "TCP",
+      "full_form": "File Transfer Protocol",
+      "function": "transfer files over a network in control mode"
+    },
+    {
+      "protocol": "SSH",
+      "ports": 22,
+      "protocol_type": "TCP",
+      "full_form": "Secure Shell",
+      "function": "enable a secure remote command-line access"
+    },
+    {
+      "protocol": "Telnet",
+      "ports": 23,
+      "protocol_type": "TCP",
+      "full_form": "Telecommunication Network Protocol",
+      "function": "enable a remote access to text-based communication"
+    },
+    {
+      "protocol": "SMTP",
+      "ports": 25,
+      "protocol_type": "TCP",
+      "full_form": "Simple Mail Transfer Protocol",
+      "function": "enable email sending"
+    },
+    {
+      "protocol": "DNS",
+      "ports": 53,
+      "protocol_type": "UDP",
+      "full_form": "Domain Name System",
+      "function": "give websites their IP address"
+    },
+    {
+      "protocol": "DHCP",
+      "ports": 65,
+      "protocol_type": "UDP",
+      "full_form": "Dynamic Host Configuration Protocol",
+      "function": "automatically assign IP addresses to devices in a network"
+    },
+    {
+      "protocol": "DHCP",
+      "ports": 68,
+      "protocol_type": "UDP",
+      "full_form": "Dynamic Host Configuration Protocol",
+      "function": "automatically assign IP addresses to devices in a network"
+    },
+    {
+      "protocol": "HTTP",
+      "ports": 80,
+      "protocol_type": "TCP",
+      "full_form": "Hypertext Transfer Protocol",
+      "function": "enable a unsecure web traffic communication"
+    },
+    {
+      "protocol": "HTTPS",
+      "ports": 443,
+      "protocol_type": "TCP",
+      "full_form": "Hypertext Transfer Protocol Secure",
+      "function": "enable a secure web traffic communication"
+    },
+    {
+      "protocol": "IMAP",
+      "ports": 143,
+      "protocol_type": "TCP",
+      "full_form": "Internet Message Access Protocol",
+      "function": "enable email retrieval from multiple client"
+    },
+    {
+      "protocol": "POP3",
+      "ports": 110,
+      "protocol_type": "TCP",
+      "full_form": "Post Office Protocol 3",
+      "function": "enable email retrieval from a single client"
+    },
+    {
+      "protocol": "SMB",
+      "ports": 445,
+      "protocol_type": "TCP",
+      "full_form": "Server Message Block",
+      "function": "enable file and printer sharing"
+    },
+    {
+      "protocol": "NetBIOS",
+      "ports": 137,
+      "protocol_type": "UDP",
+      "full_form": "Network Basic Input/Output System",
+      "function": "enable network communication between computers using UDP"
+    },
+    {
+      "protocol": "NetBIOS",
+      "ports": 139,
+      "protocol_type": "TCP",
+      "full_form": "Network Basic Input/Output System",
+      "function": "enable network communication between computers using TCP"
+    },
+    {
+      "protocol": "SNMP",
+      "ports": 161,
+      "protocol_type": "UDP",
+      "full_form": "Simple Network Management Protocol",
+      "function": "enable network device monitoring and management"
+    },
+    {
+      "protocol": "SNMP",
+      "ports": 162,
+      "protocol_type": "UDP",
+      "full_form": "Simple Network Management Protocol",
+      "function": "enable network device monitoring and management"
+    },
+    {
+      "protocol": "LDAP",
+      "ports": 389,
+      "protocol_type": "TCP",
+      "full_form": "Lightweight Directory Access Protocol",
+      "function": "enable access directories over servers"
+    },
+    {
+      "protocol": "RDP",
+      "ports": 3389,
+      "protocol_type": "TCP",
+      "full_form": "Remote Desktop Protocol",
+      "function": "allow a user to control a remote computer"
+    }
+]
+  

@@ -1,0 +1,27 @@
+Main Features: For 2.2
+
+Due Date is on 9th to submit the files to github
+
+4 Questions: 
+Port Protocol TCP/UDP
+
+[] -> answer needed
+{} -> question asked
+
+Which [port] is used for {function/protocol} ?
+Is it [tcp/udp] for {function/protocol} ?
+{tcp/udp with port} is used by which [protocol] ?
+What it is the function of this {tcp/udp with port || port} [function]
+
+Qele = {
+    Port,
+    Function,
+    Protocol,
+}
+
+from a json file it will get an array of objects
+
+4 objects will be taken at random
+
+Question will get one Qele
+The options will come from the remaining three objects {port/function/protocol}
